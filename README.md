@@ -11,7 +11,7 @@ A small cloud-based **Security Operations Center (SOC)** lab built in AWS. A pub
 The lab caught both **simulated attacks** (failed SSH logins I generated) and **real attacks from the internet** (automated scanners probing the public web server).
 
 <p align="center">
-  <img src="screenshots/agent-overview.png" alt="Wazuh dashboard showing the soc-web-server agent" width="95%">
+    <img src="screenshots/aws-soc-picture.png" alt="Wazuh dashboard showing the soc-web-server agent" width="95%">
 </p>
 
 ---
